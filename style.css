@@ -328,9 +328,6 @@ p {
     align-items: center;
 }
 
-
-
-
 /* Utility Class */
 
 .h-1 {
@@ -526,7 +523,7 @@ p {
 }
 
 @media (max-width: 288px) {
-    .infoContainer{
+    .infoContainer {
         margin-top: 174px;
     }
 
@@ -560,7 +557,5 @@ p {
         width: 16rem;
 
     }
-
-
 
 }
